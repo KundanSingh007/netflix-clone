@@ -1,0 +1,13 @@
+{
+    "emmet.excludeLanguages": ["markdown"],
+  
+    "emmet.includeLanguages": {
+  
+      "javascript": "javascriptreact"
+  
+    },
+    "files.autoSave": "afterDelay",
+    "path-intellisense.autoSlashAfterDirectory": true,
+    "javascript.format.semicolons": "insert",
+    "typescript.format.semicolons": "insert"
+  }
