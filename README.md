@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
-### MERN stack full stack React APP with Material UI, Bootstrap and using Firebase for hosting..:)
+### MERN stack full stack React APP with Material UI, Bootstrap, TMDB-api for fetching data and using Firebase for hosting..:)
 
 ## OUTPUT OF THIS PROJECT:
 
