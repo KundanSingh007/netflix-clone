@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## OUTPUT OF THIS PROJECT:
 
-### [NETFLIX-CLONE)(https://netflix-clone-kd.web.app)
+### [NETFLIX-CLONE](https://netflix-clone-kd.web.app)
 ###username:abc@gmail.com
 ### password:amd@009
 
