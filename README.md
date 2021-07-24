@@ -1,11 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
-# MERN stack full stack React APP with Material UI, Bootstrap and using ##Firebase for hosting..:)
+### MERN stack full stack React APP with Material UI, Bootstrap and using ##Firebase for hosting..:)
 
 ## OUTPUT OF THIS PROJECT:
 
-### [NETFLIX-CLONE](https://netflix-clone-kd.web.app)
-###username:abc@gmail.com
+###click me => ### [NETFLIX-CLONE](https://netflix-clone-kd.web.app)
+### username:abc@gmail.com
 ### password:amd@009
 
 ## Available Scripts
