@@ -16,5 +16,5 @@ Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
-### not availabe :
+### `Important` :
 firebase.js as it contain firebase api, so please create firebase.js file in src folder & add your own firebsae Api keys in it.. 
