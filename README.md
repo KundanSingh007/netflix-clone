@@ -3,8 +3,8 @@
 ## OUTPUT OF THIS PROJECT:
 
 ### click me => [NETFLIX-CLONE](https://netflix-clone-kd.web.app)
-### username:abc@gmail.com
-### password:amd@009
+### username: `abc@gmail.com`
+### password: `amd@009`
 
 ## Available Scripts
 
