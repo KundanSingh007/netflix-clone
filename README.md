@@ -17,4 +17,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
 ### not availabe :
-firebase.js as it contain firebase api, so please create firebase.js file add your own firebsae Api keys. 
+firebase.js as it contain firebase api, so please create firebase.js file in src folder & add your own firebsae Api keys in it.. 
